@@ -1,5 +1,5 @@
 # RP2040-LCD-1.28
-This repository includes examples for the rounded LCD RP2040. It is a low-cost, high-performance MCU board designed by [Waveshare][RP2040-LCD-1.28-Wiki].
+This repository includes examples for the rounded GC9A01 LCD (RP2040-LCD-1.28) MCU. It is a low-cost, high-performance board designed by [Waveshare][RP2040-LCD-1.28-Wiki].
 
 ![LCD](https://www.waveshare.com/w/upload/3/32/RP2040-LCD-1.28.jpg)
 
